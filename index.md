@@ -15,6 +15,7 @@ Hi , I'm Edward Delgado. Check my repos!
 
 | Project Name               | Web Page                           | Link                        |
 |----------------------------|------------------------------------|-----------------------------|
+| mtc-infra-dev       | [Webpage](https://e2ard08.github.io/mtc-infra-dev/) | [Github](https://github.com/e2ard08/mtc-infra-dev.git) |
 | mtc-infra-prod       | [Webpage](https://e2ard08.github.io/mtc-infra-prod/) | [Github](https://github.com/e2ard08/mtc-infra-prod.git) |
 
 ---
