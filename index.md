@@ -15,7 +15,6 @@ Hi , I'm Edward Delgado. Check my repos!
 
 | Project Name               | Web Page                           | Link                        |
 |----------------------------|------------------------------------|-----------------------------|
-| mtc-backend-prod       | No Page | [Github](https://github.com/e2ard08/mtc-backend-prod.git) |
 | mtc-infra-prod       | [Webpage](https://e2ard08.github.io/mtc-infra-prod/) | [Github](https://github.com/e2ard08/mtc-infra-prod.git) |
 
 ---
